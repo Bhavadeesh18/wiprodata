@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>HelloWorld.Bitwise</StartupObject>
+    <StartupObject>HelloWorld.EmployCustom</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,6 +50,11 @@
     <Compile Include="Calculation.cs" />
     <Compile Include="ConstEx.cs" />
     <Compile Include="Custominput.cs" />
+    <Compile Include="Data.cs" />
+    <Compile Include="Demo.cs" />
+    <Compile Include="Employ.cs" />
+    <Compile Include="EmployCustom.cs" />
+    <Compile Include="EmployData.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Unary.cs" />
