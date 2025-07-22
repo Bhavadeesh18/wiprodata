@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WiproJuly\\Day2\\Day2Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|d:\\wiprojuly\\day2\\day2practice\\day2practice\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|solutionrelative:day2practice\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Day2Practice||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|d:\\wiprojuly\\day2\\day2practice\\day2practice\\ctof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|solutionrelative:day2practice\\ctof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|d:\\wiprojuly\\day2\\day2practice\\day2practice\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Day2Practice",
+              "DocumentMoniker": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Day2Practice.csproj",
+              "RelativeDocumentMoniker": "Day2Practice\\Day2Practice.csproj",
+              "ToolTip": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Day2Practice.csproj*",
+              "RelativeToolTip": "Day2Practice\\Day2Practice.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-22T07:26:13.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Area.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Area.cs",
+              "RelativeDocumentMoniker": "Day2Practice\\Area.cs",
+              "ToolTip": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Area.cs*",
+              "RelativeToolTip": "Day2Practice\\Area.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:25:25.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CtoF.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\CtoF.cs",
+              "RelativeDocumentMoniker": "Day2Practice\\CtoF.cs",
+              "ToolTip": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\CtoF.cs",
+              "RelativeToolTip": "Day2Practice\\CtoF.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:47:59.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
