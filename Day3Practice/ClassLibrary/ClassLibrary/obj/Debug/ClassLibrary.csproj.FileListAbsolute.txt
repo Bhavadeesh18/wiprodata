@@ -1,0 +1,6 @@
+D:\WiproJuly\Day3\Day3Practice\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\WiproJuly\Day3\Day3Practice\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\WiproJuly\Day3\Day3Practice\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+D:\WiproJuly\Day3\Day3Practice\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day3\Day3Practice\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\WiproJuly\Day3\Day3Practice\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb

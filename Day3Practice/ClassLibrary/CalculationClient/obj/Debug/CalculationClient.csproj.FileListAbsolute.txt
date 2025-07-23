@@ -1,0 +1,10 @@
+D:\WiproJuly\Day3\Day3Practice\ClassLibrary\CalculationClient\bin\Debug\CalculationClient.exe.config
+D:\WiproJuly\Day3\Day3Practice\ClassLibrary\CalculationClient\bin\Debug\CalculationClient.exe
+D:\WiproJuly\Day3\Day3Practice\ClassLibrary\CalculationClient\bin\Debug\CalculationClient.pdb
+D:\WiproJuly\Day3\Day3Practice\ClassLibrary\CalculationClient\bin\Debug\ClassLibrary.dll
+D:\WiproJuly\Day3\Day3Practice\ClassLibrary\CalculationClient\bin\Debug\ClassLibrary.pdb
+D:\WiproJuly\Day3\Day3Practice\ClassLibrary\CalculationClient\obj\Debug\CalculationClient.csproj.AssemblyReference.cache
+D:\WiproJuly\Day3\Day3Practice\ClassLibrary\CalculationClient\obj\Debug\CalculationClient.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day3\Day3Practice\ClassLibrary\CalculationClient\obj\Debug\Calculat.2EA6E86F.Up2Date
+D:\WiproJuly\Day3\Day3Practice\ClassLibrary\CalculationClient\obj\Debug\CalculationClient.exe
+D:\WiproJuly\Day3\Day3Practice\ClassLibrary\CalculationClient\obj\Debug\CalculationClient.pdb

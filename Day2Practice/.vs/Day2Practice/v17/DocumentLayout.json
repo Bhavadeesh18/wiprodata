@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\WiproJuly\\Day2\\Day2Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|D:\\WiproJuly\\Day2\\Day2Practice\\day2practice\\boxemploy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|D:\\WiproJuly\\Day2\\Day2Practice\\day2practice\\milestone2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|solutionrelative:day2practice\\milestone2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|D:\\WiproJuly\\Day2\\Day2Practice\\day2practice\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|solutionrelative:day2practice\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|d:\\wiprojuly\\day2\\day2practice\\day2practice\\boxemploy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|solutionrelative:day2practice\\boxemploy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|d:\\wiprojuly\\day2\\day2practice\\day2practice\\posneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|solutionrelative:day2practice\\posneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|D:\\WiproJuly\\Day2\\Day2Practice\\day2practice\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,19 +27,8 @@
       "RelativeMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|solutionrelative:day2practice\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|d:\\wiprojuly\\day2\\day2practice\\day2practice\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|D:\\WiproJuly\\Day2\\Day2Practice\\day2practice\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|solutionrelative:day2practice\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Day2Practice||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|D:\\WiproJuly\\Day2\\Day2Practice\\day2practice\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|solutionrelative:day2practice\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|D:\\WiproJuly\\Day2\\Day2Practice\\day2practice\\milestone2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|solutionrelative:day2practice\\milestone2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3C08E8D-7B86-4518-9C59-BB5FF4C00213}|Day2Practice\\Day2Practice.csproj|D:\\WiproJuly\\Day2\\Day2Practice\\day2practice\\milestoneex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,44 +70,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Factorial.cs",
-              "DocumentMoniker": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Factorial.cs",
-              "RelativeDocumentMoniker": "Day2Practice\\Factorial.cs",
-              "ToolTip": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Factorial.cs",
-              "RelativeToolTip": "Day2Practice\\Factorial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "PosNeg.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\PosNeg.cs",
+              "RelativeDocumentMoniker": "Day2Practice\\PosNeg.cs",
+              "ToolTip": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\PosNeg.cs",
+              "RelativeToolTip": "Day2Practice\\PosNeg.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T11:14:03.303Z",
+              "WhenOpened": "2025-07-22T12:35:02.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Palindrome.cs",
-              "DocumentMoniker": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Palindrome.cs",
-              "RelativeDocumentMoniker": "Day2Practice\\Palindrome.cs",
-              "ToolTip": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Palindrome.cs*",
-              "RelativeToolTip": "Day2Practice\\Palindrome.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAowBsAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BoxEmploy.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\BoxEmploy.cs",
+              "RelativeDocumentMoniker": "Day2Practice\\BoxEmploy.cs",
+              "ToolTip": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\BoxEmploy.cs",
+              "RelativeToolTip": "Day2Practice\\BoxEmploy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T11:02:17.531Z"
+              "WhenOpened": "2025-07-22T10:38:45.896Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "Palindrome.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Palindrome.cs",
+              "RelativeDocumentMoniker": "Day2Practice\\Palindrome.cs",
+              "ToolTip": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Palindrome.cs",
+              "RelativeToolTip": "Day2Practice\\Palindrome.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:02:17.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Milestone2.cs",
               "DocumentMoniker": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Milestone2.cs",
               "RelativeDocumentMoniker": "Day2Practice\\Milestone2.cs",
               "ToolTip": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Milestone2.cs",
               "RelativeToolTip": "Day2Practice\\Milestone2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T10:58:38.538Z"
+              "WhenOpened": "2025-07-22T10:58:38.538Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -146,19 +162,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BoxEmploy.cs",
-              "DocumentMoniker": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\BoxEmploy.cs",
-              "RelativeDocumentMoniker": "Day2Practice\\BoxEmploy.cs",
-              "ToolTip": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\BoxEmploy.cs",
-              "RelativeToolTip": "Day2Practice\\BoxEmploy.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T10:38:45.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Arrayrevalt.cs",
               "DocumentMoniker": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Arrayrevalt.cs",
@@ -171,7 +174,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Factorial.cs",
+              "RelativeDocumentMoniker": "Day2Practice\\Factorial.cs",
+              "ToolTip": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Factorial.cs",
+              "RelativeToolTip": "Day2Practice\\Factorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:14:03.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Area.cs",
               "DocumentMoniker": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Area.cs",
               "RelativeDocumentMoniker": "Day2Practice\\Area.cs",
@@ -179,12 +194,11 @@
               "RelativeToolTip": "Day2Practice\\Area.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T07:25:25.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T07:25:25.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Vote.cs",
               "DocumentMoniker": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Vote.cs",
               "RelativeDocumentMoniker": "Day2Practice\\Vote.cs",
@@ -192,19 +206,7 @@
               "RelativeToolTip": "Day2Practice\\Vote.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAuwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T07:28:19.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Day2Practice",
-              "DocumentMoniker": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Day2Practice.csproj",
-              "RelativeDocumentMoniker": "Day2Practice\\Day2Practice.csproj",
-              "ToolTip": "D:\\WiproJuly\\Day2\\Day2Practice\\Day2Practice\\Day2Practice.csproj*",
-              "RelativeToolTip": "Day2Practice\\Day2Practice.csproj*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-22T11:15:01.567Z"
+              "WhenOpened": "2025-07-22T07:28:19.763Z"
             },
             {
               "$type": "Document",

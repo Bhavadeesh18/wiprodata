@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WiproJuly\\Day3\\Day3Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|d:\\wiprojuly\\day3\\day3practice\\day3practice\\fands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|solutionrelative:day3practice\\fands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|d:\\wiprojuly\\day3\\day3practice\\day3practice\\first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|solutionrelative:day3practice\\first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|D:\\WiproJuly\\Day3\\Day3Practice\\day3practice\\second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|solutionrelative:day3practice\\second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|D:\\WiproJuly\\Day3\\Day3Practice\\day3practice\\overload2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|solutionrelative:day3practice\\overload2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|D:\\WiproJuly\\Day3\\Day3Practice\\day3practice\\overload1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|solutionrelative:day3practice\\overload1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|D:\\WiproJuly\\Day3\\Day3Practice\\day3practice\\constructor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|solutionrelative:day3practice\\constructor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|D:\\WiproJuly\\Day3\\Day3Practice\\day3practice\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|solutionrelative:day3practice\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|D:\\WiproJuly\\Day3\\Day3Practice\\day3practice\\jagged4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|solutionrelative:day3practice\\jagged4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|D:\\WiproJuly\\Day3\\Day3Practice\\day3practice\\jagged3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|solutionrelative:day3practice\\jagged3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|D:\\WiproJuly\\Day3\\Day3Practice\\day3practice\\jagged2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|solutionrelative:day3practice\\jagged2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|D:\\WiproJuly\\Day3\\Day3Practice\\day3practice\\jagged1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|solutionrelative:day3practice\\jagged1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|D:\\WiproJuly\\Day3\\Day3Practice\\day3practice\\twodim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|solutionrelative:day3practice\\twodim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|D:\\WiproJuly\\Day3\\Day3Practice\\day3practice\\strloc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|solutionrelative:day3practice\\strloc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|D:\\WiproJuly\\Day3\\Day3Practice\\day3practice\\refact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5019FE2C-70D3-4408-A76C-AB91222BB3B7}|Day3Practice\\Day3Practice.csproj|solutionrelative:day3practice\\refact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FandS.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\FandS.cs",
+              "RelativeDocumentMoniker": "Day3Practice\\FandS.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\FandS.cs",
+              "RelativeToolTip": "Day3Practice\\FandS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:30:31.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "First.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\First.cs",
+              "RelativeDocumentMoniker": "Day3Practice\\First.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\First.cs",
+              "RelativeToolTip": "Day3Practice\\First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:06:29.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Second.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Second.cs",
+              "RelativeDocumentMoniker": "Day3Practice\\Second.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Second.cs",
+              "RelativeToolTip": "Day3Practice\\Second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:08:50.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Overload2.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Overload2.cs",
+              "RelativeDocumentMoniker": "Day3Practice\\Overload2.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Overload2.cs",
+              "RelativeToolTip": "Day3Practice\\Overload2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:39:04.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Overload1.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Overload1.cs",
+              "RelativeDocumentMoniker": "Day3Practice\\Overload1.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Overload1.cs",
+              "RelativeToolTip": "Day3Practice\\Overload1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:30:37.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Constructor1.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Constructor1.cs",
+              "RelativeDocumentMoniker": "Day3Practice\\Constructor1.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Constructor1.cs",
+              "RelativeToolTip": "Day3Practice\\Constructor1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:25:42.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Matrix.cs",
+              "RelativeDocumentMoniker": "Day3Practice\\Matrix.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Matrix.cs",
+              "RelativeToolTip": "Day3Practice\\Matrix.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:22:59.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Jagged4.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Jagged4.cs",
+              "RelativeDocumentMoniker": "Day3Practice\\Jagged4.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Jagged4.cs",
+              "RelativeToolTip": "Day3Practice\\Jagged4.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:28:17.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Jagged3.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Jagged3.cs",
+              "RelativeDocumentMoniker": "Day3Practice\\Jagged3.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Jagged3.cs",
+              "RelativeToolTip": "Day3Practice\\Jagged3.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:23:02.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Jagged2.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Jagged2.cs",
+              "RelativeDocumentMoniker": "Day3Practice\\Jagged2.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Jagged2.cs",
+              "RelativeToolTip": "Day3Practice\\Jagged2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:20:38.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Jagged1.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Jagged1.cs",
+              "RelativeDocumentMoniker": "Day3Practice\\Jagged1.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\Jagged1.cs",
+              "RelativeToolTip": "Day3Practice\\Jagged1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:01:32.985Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "twodim.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\twodim.cs",
+              "RelativeDocumentMoniker": "Day3Practice\\twodim.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\twodim.cs",
+              "RelativeToolTip": "Day3Practice\\twodim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:46:28.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "refact.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\refact.cs",
+              "RelativeDocumentMoniker": "Day3Practice\\refact.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\refact.cs",
+              "RelativeToolTip": "Day3Practice\\refact.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:35:24.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "strloc.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\strloc.cs",
+              "RelativeDocumentMoniker": "Day3Practice\\strloc.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Day3Practice\\Day3Practice\\strloc.cs",
+              "RelativeToolTip": "Day3Practice\\strloc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:55:14.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

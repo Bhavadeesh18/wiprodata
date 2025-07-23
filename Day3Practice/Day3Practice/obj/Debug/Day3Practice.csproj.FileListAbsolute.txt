@@ -1,0 +1,8 @@
+D:\WiproJuly\Day3\Day3Practice\Day3Practice\bin\Debug\Day3Practice.exe.config
+D:\WiproJuly\Day3\Day3Practice\Day3Practice\bin\Debug\Day3Practice.exe
+D:\WiproJuly\Day3\Day3Practice\Day3Practice\bin\Debug\Day3Practice.pdb
+D:\WiproJuly\Day3\Day3Practice\Day3Practice\obj\Debug\Day3Practice.csproj.AssemblyReference.cache
+D:\WiproJuly\Day3\Day3Practice\Day3Practice\obj\Debug\Day3Practice.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day3\Day3Practice\Day3Practice\obj\Debug\Day3Practice.exe
+D:\WiproJuly\Day3\Day3Practice\Day3Practice\obj\Debug\Day3Practice.pdb
+D:\WiproJuly\Day3\Day3Practice\Day3Practice\obj\Debug\Day3Practice.exe.config
