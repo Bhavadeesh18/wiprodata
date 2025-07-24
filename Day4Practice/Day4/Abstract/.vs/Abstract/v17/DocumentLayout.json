@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WiproJuly\\Day4\\Abstract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA79CECD-C030-4B86-83EA-586E06D18C45}|Abstract\\Abstract.csproj|d:\\wiprojuly\\day4\\abstract\\abstract\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA79CECD-C030-4B86-83EA-586E06D18C45}|Abstract\\Abstract.csproj|solutionrelative:abstract\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA79CECD-C030-4B86-83EA-586E06D18C45}|Abstract\\Abstract.csproj|d:\\wiprojuly\\day4\\abstract\\abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA79CECD-C030-4B86-83EA-586E06D18C45}|Abstract\\Abstract.csproj|solutionrelative:abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA79CECD-C030-4B86-83EA-586E06D18C45}|Abstract\\Abstract.csproj|d:\\wiprojuly\\day4\\abstract\\abstract\\bhavadeesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA79CECD-C030-4B86-83EA-586E06D18C45}|Abstract\\Abstract.csproj|solutionrelative:abstract\\bhavadeesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bhavadeesh.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day4\\Abstract\\Abstract\\Bhavadeesh.cs",
+              "RelativeDocumentMoniker": "Abstract\\Bhavadeesh.cs",
+              "ToolTip": "D:\\WiproJuly\\Day4\\Abstract\\Abstract\\Bhavadeesh.cs",
+              "RelativeToolTip": "Abstract\\Bhavadeesh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:19:37.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Training.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day4\\Abstract\\Abstract\\Training.cs",
+              "RelativeDocumentMoniker": "Abstract\\Training.cs",
+              "ToolTip": "D:\\WiproJuly\\Day4\\Abstract\\Abstract\\Training.cs",
+              "RelativeToolTip": "Abstract\\Training.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:18:25.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day4\\Abstract\\Abstract\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract\\Program.cs",
+              "ToolTip": "D:\\WiproJuly\\Day4\\Abstract\\Abstract\\Program.cs",
+              "RelativeToolTip": "Abstract\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:16:06.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

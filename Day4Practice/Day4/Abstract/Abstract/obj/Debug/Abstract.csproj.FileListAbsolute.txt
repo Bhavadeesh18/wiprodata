@@ -1,0 +1,2 @@
+D:\WiproJuly\Day4\Abstract\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+D:\WiproJuly\Day4\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
