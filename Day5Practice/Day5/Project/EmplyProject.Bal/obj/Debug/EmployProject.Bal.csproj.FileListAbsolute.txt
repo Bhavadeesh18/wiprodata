@@ -1,0 +1,13 @@
+D:\WiproJuly\Day5\Project\EmplyProject.Bal\obj\Debug\EmployProject.Bal.csproj.AssemblyReference.cache
+D:\WiproJuly\Day5\Project\EmplyProject.Bal\obj\Debug\EmployProject.Bal.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day5\Project\EmplyProject.Bal\bin\Debug\EmployProject.Dao.dll
+D:\WiproJuly\Day5\Project\EmplyProject.Bal\bin\Debug\EmployProject.Exception.dll
+D:\WiproJuly\Day5\Project\EmplyProject.Bal\bin\Debug\EmployProject.Models.dll
+D:\WiproJuly\Day5\Project\EmplyProject.Bal\bin\Debug\EmployProject.Exception.pdb
+D:\WiproJuly\Day5\Project\EmplyProject.Bal\bin\Debug\EmployProject.Models.pdb
+D:\WiproJuly\Day5\Project\EmplyProject.Bal\obj\Debug\EmplyProject.Bal.dll
+D:\WiproJuly\Day5\Project\EmplyProject.Bal\obj\Debug\EmplyProject.Bal.pdb
+D:\WiproJuly\Day5\Project\EmplyProject.Bal\bin\Debug\EmplyProject.Bal.dll
+D:\WiproJuly\Day5\Project\EmplyProject.Bal\bin\Debug\EmplyProject.Bal.pdb
+D:\WiproJuly\Day5\Project\EmplyProject.Bal\obj\Debug\EmployPr.51110864.Up2Date
+D:\WiproJuly\Day5\Project\EmplyProject.Bal\bin\Debug\EmployProject.Dao.pdb
