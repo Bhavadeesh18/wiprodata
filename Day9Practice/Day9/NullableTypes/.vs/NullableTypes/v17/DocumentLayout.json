@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WiproJuly\\Day9\\NullableTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EECB9C94-8460-417B-9BAD-58C1E927410B}|..\\Attributes\\Attributes.csproj|d:\\wiprojuly\\day9\\attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECB9C94-8460-417B-9BAD-58C1E927410B}|..\\Attributes\\Attributes.csproj|d:\\wiprojuly\\day9\\attributes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECB9C94-8460-417B-9BAD-58C1E927410B}|..\\Attributes\\Attributes.csproj|d:\\wiprojuly\\day9\\attributes\\informationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|d:\\wiprojuly\\day9\\nullabletypes\\nullabletypes\\synchronize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|solutionrelative:nullabletypes\\synchronize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|d:\\wiprojuly\\day9\\nullabletypes\\nullabletypes\\threadex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|solutionrelative:nullabletypes\\threadex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|d:\\wiprojuly\\day9\\nullabletypes\\nullabletypes\\indexerex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|solutionrelative:nullabletypes\\indexerex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|d:\\wiprojuly\\day9\\nullabletypes\\nullabletypes\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|solutionrelative:nullabletypes\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|d:\\wiprojuly\\day9\\nullabletypes\\nullabletypes\\indexerex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|solutionrelative:nullabletypes\\indexerex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|d:\\wiprojuly\\day9\\nullabletypes\\nullabletypes\\nullex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|solutionrelative:nullabletypes\\nullex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|d:\\wiprojuly\\day9\\nullabletypes\\nullabletypes\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|solutionrelative:nullabletypes\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|d:\\wiprojuly\\day9\\nullabletypes\\nullabletypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|solutionrelative:nullabletypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|d:\\wiprojuly\\day9\\nullabletypes\\nullabletypes\\ncx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6B72B6-6D59-4838-9802-9E0E834D8938}|NullableTypes\\NullableTypes.csproj|solutionrelative:nullabletypes\\ncx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Informationclass.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day9\\Attributes\\Informationclass.cs",
+              "RelativeDocumentMoniker": "..\\Attributes\\Informationclass.cs",
+              "ToolTip": "D:\\WiproJuly\\Day9\\Attributes\\Informationclass.cs",
+              "RelativeToolTip": "..\\Attributes\\Informationclass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:10:41.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day9\\Attributes\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Attributes\\Student.cs",
+              "ToolTip": "D:\\WiproJuly\\Day9\\Attributes\\Student.cs",
+              "RelativeToolTip": "..\\Attributes\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:10:18.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day9\\Attributes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Attributes\\Program.cs",
+              "ToolTip": "D:\\WiproJuly\\Day9\\Attributes\\Program.cs",
+              "RelativeToolTip": "..\\Attributes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:09:27.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Synchronize.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\Synchronize.cs",
+              "RelativeDocumentMoniker": "NullableTypes\\Synchronize.cs",
+              "ToolTip": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\Synchronize.cs",
+              "RelativeToolTip": "NullableTypes\\Synchronize.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:06:37.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThreadEx1.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\ThreadEx1.cs",
+              "RelativeDocumentMoniker": "NullableTypes\\ThreadEx1.cs",
+              "ToolTip": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\ThreadEx1.cs",
+              "RelativeToolTip": "NullableTypes\\ThreadEx1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:56:58.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\Emp.cs",
+              "RelativeDocumentMoniker": "NullableTypes\\Emp.cs",
+              "ToolTip": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\Emp.cs",
+              "RelativeToolTip": "NullableTypes\\Emp.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:55:54.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IndexerEx2.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\IndexerEx2.cs",
+              "RelativeDocumentMoniker": "NullableTypes\\IndexerEx2.cs",
+              "ToolTip": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\IndexerEx2.cs",
+              "RelativeToolTip": "NullableTypes\\IndexerEx2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:55:24.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IndexerEx1.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\IndexerEx1.cs",
+              "RelativeDocumentMoniker": "NullableTypes\\IndexerEx1.cs",
+              "ToolTip": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\IndexerEx1.cs",
+              "RelativeToolTip": "NullableTypes\\IndexerEx1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:45:31.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ncx.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\Ncx.cs",
+              "RelativeDocumentMoniker": "NullableTypes\\Ncx.cs",
+              "ToolTip": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\Ncx.cs",
+              "RelativeToolTip": "NullableTypes\\Ncx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:38:44.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\Program.cs",
+              "RelativeDocumentMoniker": "NullableTypes\\Program.cs",
+              "ToolTip": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\Program.cs",
+              "RelativeToolTip": "NullableTypes\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:09:52.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\Employ.cs",
+              "RelativeDocumentMoniker": "NullableTypes\\Employ.cs",
+              "ToolTip": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\Employ.cs",
+              "RelativeToolTip": "NullableTypes\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:07:12.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NullEx1.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\NullEx1.cs",
+              "RelativeDocumentMoniker": "NullableTypes\\NullEx1.cs",
+              "ToolTip": "D:\\WiproJuly\\Day9\\NullableTypes\\NullableTypes\\NullEx1.cs",
+              "RelativeToolTip": "NullableTypes\\NullEx1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:06:07.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
