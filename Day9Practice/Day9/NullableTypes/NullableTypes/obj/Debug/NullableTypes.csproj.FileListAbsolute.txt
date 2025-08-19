@@ -1,6 +1,0 @@
-D:\WiproJuly\Day9\NullableTypes\NullableTypes\obj\Debug\NullableTypes.csproj.AssemblyReference.cache
-D:\WiproJuly\Day9\NullableTypes\NullableTypes\obj\Debug\NullableTypes.csproj.CoreCompileInputs.cache
-D:\WiproJuly\Day9\NullableTypes\NullableTypes\bin\Debug\NullableTypes.pdb
-D:\WiproJuly\Day9\NullableTypes\NullableTypes\obj\Debug\NullableTypes.pdb
-D:\WiproJuly\Day9\NullableTypes\NullableTypes\bin\Debug\NullableTypes.exe
-D:\WiproJuly\Day9\NullableTypes\NullableTypes\obj\Debug\NullableTypes.exe

@@ -1,8 +1,0 @@
-D:\WiproJuly\Day5\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
-D:\WiproJuly\Day5\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
-D:\WiproJuly\Day5\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
-D:\WiproJuly\Day5\FileHandling\FileHandling\bin\Debug\FileHandling.exe
-D:\WiproJuly\Day5\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
-D:\WiproJuly\Day5\FileHandling\FileHandling\obj\Debug\FileHandling.exe
-D:\WiproJuly\Day5\FileHandling\FileHandling\obj\Debug\FileHandling.pdb
-D:\WiproJuly\Day5\FileHandling\FileHandling\obj\Debug\FileHandling.exe.config

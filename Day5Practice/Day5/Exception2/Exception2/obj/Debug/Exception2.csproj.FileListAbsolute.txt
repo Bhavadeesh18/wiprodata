@@ -1,7 +1,0 @@
-D:\WiproJuly\Day5\Exception2\Exception2\obj\Debug\Exception2.csproj.AssemblyReference.cache
-D:\WiproJuly\Day5\Exception2\Exception2\obj\Debug\Exception2.csproj.CoreCompileInputs.cache
-D:\WiproJuly\Day5\Exception2\Exception2\bin\Debug\Exception2.exe.config
-D:\WiproJuly\Day5\Exception2\Exception2\bin\Debug\Exception2.exe
-D:\WiproJuly\Day5\Exception2\Exception2\bin\Debug\Exception2.pdb
-D:\WiproJuly\Day5\Exception2\Exception2\obj\Debug\Exception2.exe
-D:\WiproJuly\Day5\Exception2\Exception2\obj\Debug\Exception2.pdb

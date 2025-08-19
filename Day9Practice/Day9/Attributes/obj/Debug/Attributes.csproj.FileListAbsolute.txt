@@ -1,7 +1,0 @@
-D:\WiproJuly\Day9\Attributes\bin\Debug\Attributes.exe.config
-D:\WiproJuly\Day9\Attributes\bin\Debug\Attributes.exe
-D:\WiproJuly\Day9\Attributes\bin\Debug\Attributes.pdb
-D:\WiproJuly\Day9\Attributes\obj\Debug\Attributes.csproj.AssemblyReference.cache
-D:\WiproJuly\Day9\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
-D:\WiproJuly\Day9\Attributes\obj\Debug\Attributes.exe
-D:\WiproJuly\Day9\Attributes\obj\Debug\Attributes.pdb

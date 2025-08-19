@@ -1,0 +1,20 @@
+@model MVCDemoCore.Models.Employ
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+<h2>Employee Details</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">
+            <strong>Employee No:</strong> @Model.Empno<br/>
+            <strong>Name:</strong> @Model.Name<br/>
+            <strong>Basic Salary:</strong> @Model.Basic
+        </p>
+        <a asp-action="Edit" asp-route-id="@Model.Empno" class="btn btn-warning">Edit</a>
+        <a asp-action="Delete" asp-route-id="@Model.Empno" class="btn btn-danger">Delete</a>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

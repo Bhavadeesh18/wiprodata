@@ -1,8 +1,0 @@
-D:\WiproJuly\Day2\Day2Practice\Day2Practice\bin\Debug\Day2Practice.exe.config
-D:\WiproJuly\Day2\Day2Practice\Day2Practice\bin\Debug\Day2Practice.exe
-D:\WiproJuly\Day2\Day2Practice\Day2Practice\bin\Debug\Day2Practice.pdb
-D:\WiproJuly\Day2\Day2Practice\Day2Practice\obj\Debug\Day2Practice.csproj.AssemblyReference.cache
-D:\WiproJuly\Day2\Day2Practice\Day2Practice\obj\Debug\Day2Practice.csproj.CoreCompileInputs.cache
-D:\WiproJuly\Day2\Day2Practice\Day2Practice\obj\Debug\Day2Practice.exe
-D:\WiproJuly\Day2\Day2Practice\Day2Practice\obj\Debug\Day2Practice.pdb
-D:\WiproJuly\Day2\Day2Practice\Day2Practice\obj\Debug\Day2Practice.exe.config
