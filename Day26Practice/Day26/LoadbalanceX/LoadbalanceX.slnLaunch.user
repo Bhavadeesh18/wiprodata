@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "LoadbalanceX\\EmployLoad.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\WebApplication1\\EmployMain.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

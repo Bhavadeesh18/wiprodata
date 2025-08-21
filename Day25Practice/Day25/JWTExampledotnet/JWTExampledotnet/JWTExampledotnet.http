@@ -1,0 +1,6 @@
+@JWTExampledotnet_HostAddress = http://localhost:5172
+
+GET {{JWTExampledotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
